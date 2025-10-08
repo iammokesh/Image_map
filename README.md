@@ -107,6 +107,7 @@ thottraal falls.html
 </html>
 ```
 # OUTPUT
+![alt text](map.png.png)
 ![alt text](<Screenshot (20).png>)
 ![alt text](<Screenshot (21).png>)
 ![alt text](<Screenshot (22).png>)
